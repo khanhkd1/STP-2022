@@ -58,6 +58,7 @@ int main(){
                         }
                     }
                 }
+
                 else if (matrix[row][col] == 'Q'){
                     int checkStop1 = 0, checkStop2 = 0, checkStop3 = 0, checkStop4 = 0, checkStop5 = 0, checkStop6 = 0, checkStop7 = 0, checkStop8 = 0;
                     // Math.max(Math.max(row, n-row), Math.max(col, m-col))
